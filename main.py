@@ -15,7 +15,7 @@ GREY = (220, 220, 220)
 #constants representing the different resources
 DIRT = 0
 GRASS = 1
-WATER = 2
+WATER = 2 
 COAL = 3
 LAVA = 4
 ROCK = 5
